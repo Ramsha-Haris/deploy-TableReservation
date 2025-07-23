@@ -31,7 +31,7 @@ app.set('views', 'views');
 
 // CORS Setup
 const allowedOrigins = [
-  // 'https://bodies-winter-democracy-nam.trycloudflare.com',
+  'https://deploy-table-reservation.vercel.app',
   'http://localhost:5173'
 ];
 
