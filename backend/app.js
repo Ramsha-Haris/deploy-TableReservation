@@ -31,7 +31,7 @@ app.set('views', 'views');
 
 // CORS Setup
 const allowedOrigins = [
-  'https://bodies-winter-democracy-nam.trycloudflare.com',
+  // 'https://bodies-winter-democracy-nam.trycloudflare.com',
   'http://localhost:5173'
 ];
 
