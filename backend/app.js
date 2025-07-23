@@ -31,7 +31,7 @@ app.set('views', 'views');
 
 // CORS Setup
 const allowedOrigins = [
-  'https://deploy-table-reservation.vercel.app/api',
+  'https://deploy-table-reservation.vercel.app',
   'http://localhost:5173'
 ];
 
